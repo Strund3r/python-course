@@ -1,12 +1,12 @@
 # **Exercises** from [Coursera](https://www.coursera.org/learn/ciencia-computacao-python-conceitos)'s Introdução à Ciência da Computação com Python
 ##### *by Universidade de São Paulo*
 
-## [Part 1](https://github.com/Strund3r/python-course/tree/master/Part-1)
-#### [Week 1](https://github.com/Strund3r/python-course/tree/master/Part-1/Week-1)
+## [Part 1](https://github.com/Strund3r/python-course/tree/master/Part%201)
+#### [Week 1](https://github.com/Strund3r/python-course/tree/master/Part%201/Week%201)
 
   - Apresentação e Introdução ao Curso :heavy_check_mark:
 
-#### [Week 2](https://github.com/Strund3r/python-course/tree/master/Part-1/Week-2)
+#### [Week 2](https://github.com/Strund3r/python-course/tree/master/Part%201/Week%202)
 
   - Introdução ao Python :heavy_check_mark:
 
